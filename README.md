@@ -32,7 +32,7 @@ The Bank Term Deposit Campaign Optimization project aims to significantly enhanc
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Bank_Term_Deposit_Campaign_Optimization.git
+   git clone https://github.com/ilhamtaufieq17/Bank_Term_Deposit_Campaign_Optimization.git
 
 
 ## Contribute
